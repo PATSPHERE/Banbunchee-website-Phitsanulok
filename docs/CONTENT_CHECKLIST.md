@@ -23,4 +23,4 @@ The first website version uses information visible in the approved mockup. Verif
 
 ## Image note
 
-The first hero and logo assets are derived from the supplied mockup for prototype use. Replace them with original high-resolution brand files before the final launch when available.
+The first version contains vector prototype artwork inspired by the approved mockup. Replace it with the original high-resolution logo, hero photograph and official partner artwork before final launch when those files are supplied.
