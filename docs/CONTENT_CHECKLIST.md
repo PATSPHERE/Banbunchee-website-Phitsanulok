@@ -16,7 +16,7 @@ The first website version uses information visible in the approved mockup. Verif
 | Entity accounting fee | From 3,000 THB/month | Confirm |
 | Partnership registration | 5,000 THB | Confirm inclusions |
 | Company registration | 12,000 THB | Confirm inclusions |
-| Experience | Over 20 years | Confirm |
+| Accounting experience | Over 25 years | Confirmed by owner |
 | Followers | 550+ | Confirm or connect to current number |
 | Posts | 1.3k+ | Confirm or connect to current number |
 | LINE QR | Not added in V1 | Provide official QR image |
